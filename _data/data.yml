@@ -78,33 +78,47 @@ experiences:
         - Conducting development talks, perfomance evaluations, salary reviews and recruitment.
         - Aligning development teams to streamline technology implementation based on industry standards.
         - Liasing closely with products with upcoming initiatives to determine feasibility
+
+    - role: Solutions Architect
+      time: Feb. 2015 - Jan. 2018
+      company: Betsson Group, Malta
+      details: |
+        - Defining and designing a new target front-end architecture and vision with re-usablity by design to implement a multi-brand, market, jurisdiction and channel (25 brands, 2 channels, 20 markets with 8 Jurisictions) also known as OBG Framework which consist of unified Front-End API and SDKs with a configuration driven approach.
+        - Introducing Angular 2+ for Mobile channel by standardizing the front-end webapp (client) and implementing modern reactive design patters.
+        - Designing a new architecture for Sportsbook Front-End including a new real-time archtiecture.
+        - Standardizing and implementing best practices that are part of the SDLC using Git (Gitflow), peer review process by using an open source approach.
+        - 3rd party Content Management Systems products evaluation to implement for Betsson Group.
+
+    - role: Senior Software Engineer & iOS Developer
+      time: Jun. 2013 - Feb. 2015
+      company: Betsson Group, Malta
+      details: |
+        - Day to day www.betsson.com site and all brands native iOS app enhancements with new features and improving the overall customer experience.
+        - Responsible for the site architecture, by deciding and co-ordinating with the team to come up with the best technical solutions.
+        - Striving to follow best practices during the whole SDLC and in our day to day tasks to improve delivery timelines and efficiency.
+
+    - role: Back-End Engineer
+      time: Jun. 2013 - Feb. 2015
+      company: Betsson Group, Malta
+      details: |
+        - Working in a face paced agile team building and maintaining our own in-house java based gaming platform and bi platform.
+        - Migrating brands over to the tech platform which involed of gap analysis and development.
+
+    - role: Software Engineer
+      time: Sep. 2008 - Aug. 2010
+      company: NetRefer, Malta
+      details: |
+        - Successfully implemented high profile .NET applications ranging from basic websites to more complex projects such as media management, media serving and tracking as a well as complete new architecture of the affiliate facing web interface.
+        - Key responsibilities was to completely re-write the Affiliate web-based interface which is used by over 85,000 affiliates worldwide and is the main solution for high profile iGaming operators such as as Betfair, William Hill, Unibet, 32Red and other major gaming and financial operators.
+        - Liased with UI/UX Designers to maintain a smooth process between design and development and ensure that the project is delivered perfect not just functionally but also aesthetically.
+        - My other daily tasks included bug fixing, assisting other developers with media related issues and the monitoring of media servers.
+
 projects:
-    title: Projects
+    title: Honors & Awards
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - Betsson Group, Techy of the Year Award (2015)
+      - NetRefer, Employee of the Year Award (2009)
+      - MCAST, Best Industrial Application Award (2006)
 
 publications:
     title: Publications
