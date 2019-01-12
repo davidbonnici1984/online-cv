@@ -44,10 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Current Solutions Architect at Betsson Group. 5 years experience in hardware design, 15+ years experience specializing in software architecture,
-backend/frontend development, infrastructure, data and security. Interested in devising an evolutionary architecture to improve efficiency and
-enabling business using technology.
-
+      Current Solutions Architect at Betsson Group. 5 years experience in hardware design, 15+ years experience specializing in software architecture, backend/frontend development, infrastructure, data and security. Interested in devising an evolutionary architecture to improve efficiency and enabling business using technology.
 education:
     - degree: Diploma in Industrial Electronics Engineering
       university: MCAST(Malta College of Arts Science & Technology)
@@ -63,26 +60,25 @@ experiences:
       time: Aug. 2018 - Present
       company: Betsson Group, Malta
       details: |
-      • Designed an improved real-time back-end and front-end architecture for Betsson Group to provide real-time data streaming up to the FrontEnd. The system to be used for specific business cases such as sportsbook, wallet, on-site messaging and gamification.
-      • Involvement in translating of business jurisdictional requirements to technical requirements for platform domain and front-end domain.
-      • Enhancing Betsson Group technology portfolio by evaluating new distributed computing technologies such as Microsoft Orleans by validating
-      it and facilitating technical workshops with development teams.
-      • Involvement in planning a long-term architecture vision for platform.
-      • Liasing closely with product team on a day to day basis to support them with any technical challenges, concerns and vision.
-      • Working closely with UX/UI people to work on internal tools architecture.
+        • Designed an improved real-time back-end and front-end architecture for Betsson Group to provide real-time data streaming up to the FrontEnd. The system to be used for specific business cases such as sportsbook, wallet, on-site messaging and gamification.
+        • Involvement in translating of business jurisdictional requirements to technical requirements for platform domain and front-end domain.
+        • Enhancing Betsson Group technology portfolio by evaluating new distributed computing technologies such as Microsoft Orleans by validating it and facilitating technical workshops with development teams.
+        • Involvement in planning a long-term architecture vision for platform.
+        • Liasing closely with product team on a day to day basis to support them with any technical challenges, concerns and vision.
+        • Working closely with UX/UI people to work on internal tools architecture.
 
 
     - role: Lead Solutions Architect
       time: Jan. 2018 - Aug. 2018
       company: Betsson Group, Malta
       details: |
-      • Redefining our target architecture and vision with objectives in line with the company strategy and vision.
-      • Direct managing the architecture team of 6 architects (direct reporting) and other 2 (cross reporting) covering for all domains: Platform, FrontEnd, Payments, Sportsbook, Data and Infrastructure.
-      • Facilitating Architecture workshops and forums to discuss architectural concerns, improvements and decisions.
-      • Day-to-day team management to guide and mentor other architects and developers.
-      • Conducting development talks, perfomance evaluations, salary reviews and recruitment.
-      • Aligning development teams to streamline technology implementation based on industry standards.
-      • Liasing closely with products with upcoming initiatives to determine feasibility
+        • Redefining our target architecture and vision with objectives in line with the company strategy and vision.
+        • Direct managing the architecture team of 6 architects (direct reporting) and other 2 (cross reporting) covering for all domains: Platform, FrontEnd, Payments, Sportsbook, Data and Infrastructure.
+        • Facilitating Architecture workshops and forums to discuss architectural concerns, improvements and decisions.
+        • Day-to-day team management to guide and mentor other architects and developers.
+        • Conducting development talks, perfomance evaluations, salary reviews and recruitment.
+        • Aligning development teams to streamline technology implementation based on industry standards.
+        • Liasing closely with products with upcoming initiatives to determine feasibility
 
 
     - role: UI Developer
